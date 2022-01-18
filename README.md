@@ -1,6 +1,6 @@
 ### Olá! Pode me chamar de Carol :)
 
-- 🌱 Dev Fullstack
-- 💻 Java | JavaScript | ReactJS | HTML | CSS 
+- 🌱 Dev Fullstack Júnior
+- 💻 Java
 - 📚 Generation Brasil
 - 😄 Pronomes: ela/dela
